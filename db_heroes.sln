@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "db_heroes", "db_heroes\db_heroes.vcxproj", "{994BBE71-4B5A-4209-8352-549CA1D5C7D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AABB33A2-FF50-4FFB-9473-3D17D558746E}"
+	ProjectSection(SolutionItems) = preProject
+		main.cpp = main.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{9D2B10F4-896E-4491-9D87-274C002C395A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{994BBE71-4B5A-4209-8352-549CA1D5C7D9}.Debug|x64.ActiveCfg = Debug|x64
+		{994BBE71-4B5A-4209-8352-549CA1D5C7D9}.Debug|x64.Build.0 = Debug|x64
+		{994BBE71-4B5A-4209-8352-549CA1D5C7D9}.Debug|x86.ActiveCfg = Debug|Win32
+		{994BBE71-4B5A-4209-8352-549CA1D5C7D9}.Debug|x86.Build.0 = Debug|Win32
+		{994BBE71-4B5A-4209-8352-549CA1D5C7D9}.Release|x64.ActiveCfg = Release|x64
+		{994BBE71-4B5A-4209-8352-549CA1D5C7D9}.Release|x64.Build.0 = Release|x64
+		{994BBE71-4B5A-4209-8352-549CA1D5C7D9}.Release|x86.ActiveCfg = Release|Win32
+		{994BBE71-4B5A-4209-8352-549CA1D5C7D9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADD5D631-9307-41FF-8EC8-5B1934079873}
+	EndGlobalSection
+EndGlobal
