@@ -28,7 +28,7 @@ void displayMenu(bool isRussian) {
     if (isRussian) {
         std::cout << "$$$ если имя героя состоит из двух слов, введите их через пробел $$$" << std::endl;
         std::cout << "" << std::endl;
-        std::cout << "Что вы хотите узнать? (1 - текущие билды, 2 - контргерои): ";
+        std::cout << "Что вы хотите узнать? (1 - текущие билды, 2 - контрпики): ";
     } else {
         std::cout << "$$$ if the hero's name consists of two words, type it separated by a space plz $$$" << std::endl;
         std::cout << "" << std::endl;
