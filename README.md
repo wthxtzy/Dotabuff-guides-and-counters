@@ -1,6 +1,6 @@
 # Dota Draft Assistant 2.0
 
-[![Build](https://github.com/wthxtzy/Dotabuff-guides-and-counters/actions/workflows/build.yml/badge.svg)](https://github.com/wthxtzy/Dotabuff-guides-and-counters/actions/workflows/build.yml)
+
 
 Локальный помощник по драфту Dota 2, который работает в браузере на `127.0.0.1`.
 Перетаскивайте героев в свою команду и в команду врага — приложение в реальном
