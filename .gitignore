@@ -1,0 +1,17 @@
+# Local build caches and runtime state
+.gocache/
+.runtime/
+bin/
+dist/
+*.log
+
+# Generated seed fetch artefacts
+data/raw/
+data/tmp/
+data/hero_stats.json
+data/patches.json
+
+# Python / editor noise
+__pycache__/
+*.pyc
+.DS_Store
