@@ -1,0 +1,8 @@
+{
+ "schema": 2,
+ "generatedAt": "2026-11-02T16:42:35Z",
+ "patch": "7.41",
+ "source": "OpenDota public matches",
+ "totalMatchups": 15966,
+ "heroes": 127
+}
